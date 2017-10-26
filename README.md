@@ -2,4 +2,5 @@
 Solutions for the different HackerRank challenges.
 
 # Progress
-At least one solution is added daily. Starting of with the algorithm track.
+At least one solution is added daily. Starting with the algorithm track
+I will add solutions as I complete them.
